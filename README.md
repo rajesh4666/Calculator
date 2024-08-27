@@ -3,9 +3,6 @@ A grid of numbers (0-9 and 00).
 Basic arithmetic operators (+, -, /, x, %).
 Some symbols for special operations such as (clear, backspace and equal)
 
-![caculator](https://github.com/user-attachments/assets/0f0b8194-02ab-4686-b4e8-8add1cd1f2eb)
-
-
 #Use of HTML:
       In this article, to create a calculator, we are using HTML to create basic structure. By using HTML, we are creating an input field, display area and buttons.
 
@@ -14,6 +11,9 @@ Some symbols for special operations such as (clear, backspace and equal)
 
 #Use of JavaScript:
       In this article for creating calculator, we have used JavaScript to add functionality to each buttons, be responsive to user input. We have added click events and keyboard inputs using Javascript, so that each component can perform their respective function.
+
+![caculator](https://github.com/user-attachments/assets/0f0b8194-02ab-4686-b4e8-8add1cd1f2eb)
+
 
 ---->>Creating a Calculator using HTML, CSS, and JS<<----------
 
